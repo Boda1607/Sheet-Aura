@@ -70,7 +70,7 @@ To set up and run Sheet Aura on your local machine for development or personal u
     ```bash
     git clone [https://github.com/Boda1607/sheet-aura.git](https://github.com/Boda1607/sheet-aura.git)
     ```
-    *(Replace `your-username` with your actual GitHub username if you've forked it.)*
+
 2.  **Navigate to the project directory:**
     ```bash
     cd sheet-aura
